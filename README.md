@@ -2,6 +2,7 @@
 
  - Vue.js 3
  - Go 1.18
+ - PostgreSQL
 
 ## Build and Start
 
